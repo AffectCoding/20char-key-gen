@@ -7,5 +7,6 @@ it has a Generate and a Copy button for easy use.
 
 Once downloaded
 -------------------------
+*Extract the file from the zip
 *open the exe
 *Enjoy
